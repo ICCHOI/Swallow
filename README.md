@@ -33,7 +33,7 @@ REACT_APP_APP_ID = n
 ## Usage
 
 ```shell
-git clone
+git clone https://github.com/teamRollin/Swallow
 cd Swallow
 npm install
 npm start
