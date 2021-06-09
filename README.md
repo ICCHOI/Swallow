@@ -12,15 +12,11 @@
 
 ## Environment
 
----
-
 |    icon    | ![React logo](./img/react.svg) | ![Firebase logo](./img/firebase.svg) | ![Github logo](./img/github.svg) |
 | :--------: | ------------------------------ | ------------------------------------ | -------------------------------- |
 | Technology | React.js (JS)                  | Firebase API                         | Github Pages                     |
 
 ## Prerequisite
-
----
 
 Firebase 프로젝트 설정 후 .env 파일을 만들어 firebase configuration을 붙여넣으면 됩니다.
 
@@ -35,8 +31,6 @@ REACT_APP_APP_ID = n
 ```
 
 ## Usage
-
----
 
 ```shell
 git clone
